@@ -1,1 +1,3 @@
-# if-i-forget-to-add-a-readme
+# Lax L.L.C's Website.
+
+idk what to put here
